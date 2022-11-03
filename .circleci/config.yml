@@ -29,7 +29,7 @@ workflows:
               ignore: /.*/
             branches:
               only:
-                - develop
+                - main
 
       - build_tag_latest:
           context:
