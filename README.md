@@ -1,5 +1,5 @@
 # service-helpdeskz
-
+[![Docker Pulls](https://badgen.net/docker/pulls/inraep2m2/service-helpdeskz?icon=docker&label=pulls)](https://hub.docker.com/r/inraep2m2/service-helpdeskz/)
 [![CircleCI](https://circleci.com/gh/p2m2/service-helpdeskz.svg?style=shield)](https://circleci.com/gh/p2m2/service-helpdeskz)
 
 inherits [helpdeskz-alpine](https://github.com/lakuapik/helpdeskz-alpine) repository.
